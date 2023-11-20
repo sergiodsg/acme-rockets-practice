@@ -1,0 +1,1 @@
+Simple HTML landing page with Tailwind CSS
